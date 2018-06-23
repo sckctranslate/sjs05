@@ -7,7 +7,7 @@ YCbCr Matrix: TV.601
 PlayResX: 1920
 PlayResY: 1080
 Original Script: SerCom_KC
-Original Translation: 妙挖种子
+Original Translation: 妙挖種子
 Original Timing: SerCom_KC
 Update Details: v1.0.0
 Original Editing: SerCom_KC
@@ -33,8 +33,8 @@ Comment: 0,0:00:00.00,0:22:36.83,DEFT,,0,0,0,,Any unauthorized commercial usage 
 Comment: 0,0:00:00.00,0:22:36.83,DEFT,,0,0,0,,
 Comment: 0,0:00:00.00,0:22:36.83,DEFT,,0,0,0,,Version v1.0.0-CHS
 Dialogue: 0,0:00:56.07,0:00:59.41,CRED,,0,0,0,,{\fad(900,900)\fs50}翻译版本  {\fs}v1.0.0-CHS
-Comment: 0,0:00:00.00,0:22:36.83,DEFT,,0,0,0,,Translator(s): 妙挖种子
-Dialogue: 0,0:01:04.29,0:01:07.21,CRED,,0,0,0,,{\fad(900,900)\fs50}翻译  {\fs}妙挖种子
+Comment: 0,0:00:00.00,0:22:36.83,DEFT,,0,0,0,,Translator(s): 妙挖種子
+Dialogue: 0,0:01:04.29,0:01:07.21,CRED,,0,0,0,,{\fad(900,900)\fs50}翻译  {\fs}妙挖種子
 Comment: 0,0:00:00.00,0:22:36.83,DEFT,,0,0,0,,Proofreader(s): SerCom_KC
 Dialogue: 0,0:01:10.59,0:01:13.67,CRED,,0,0,0,,{\fad(900,900)\fs50}校对  {\fs}SerCom_KC
 Comment: 0,0:01:16.76,0:01:20.10,CRED,,0,0,0,,{\fad(900,900)\fs50}encoded by {\fs}
