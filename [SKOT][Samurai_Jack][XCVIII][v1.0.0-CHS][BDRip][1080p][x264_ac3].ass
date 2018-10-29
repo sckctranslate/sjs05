@@ -1,0 +1,208 @@
+﻿[Script Info]
+Title: Samurai Jack - XCVIII
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Original Script: SerCom_KC
+Original Translation: 妙挖種子
+Original Timing: SerCom_KC
+Update Details: v1.0.0
+Original Editing: SerCom_KC
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: DIAG,思源黑体 Medium,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,5,0,2,30,30,30,1
+Style: RATN,思源黑体 Medium,75,&HFFFFFFFF,&HFF0000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,5,0,8,30,30,30,1
+Style: DESC,思源黑体 Medium,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.5,0,8,30,30,30,1
+Style: EDEN,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,30,0
+Style: TITL,方正黑体_GBK,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,5,0,2,30,30,30,1
+Style: CRED,Source Han Sans Bold,75,&H00FFFFFF,&H000000FF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,1,0,5,2,0,0,40,1
+Style: DEFT,Source Han Sans Regular,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,50,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:22:36.83,DEFT,,0,0,0,,This script is a work of Translated by @SerCom_KC Open Translation Project.
+Dialogue: 0,0:00:46.44,0:00:51.53,CRED,,0,0,0,,{\fad(2550,1050)\an5\shad0\fnSource Han Sans Heavy\pos(960,220)}Translated by @SerCom_KC\N{\fnSource Han Sans Regular\fs50}OPEN TRANSLATION PROJECT
+Comment: 0,0:00:00.00,0:22:36.83,DEFT,,0,0,0,,For more details, please visit https://translatedby.sercomkc.org/sjs05
+Comment: 0,0:00:00.00,0:22:36.83,DEFT,,0,0,0,,
+Comment: 0,0:00:00.00,0:22:36.83,DEFT,,0,0,0,,This script is released under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+Comment: 0,0:00:00.00,0:22:36.83,DEFT,,0,0,0,,Any unauthorized commercial usage is strongly prohibited.
+Comment: 0,0:00:00.00,0:22:36.83,DEFT,,0,0,0,,
+Comment: 0,0:00:00.00,0:22:36.83,DEFT,,0,0,0,,Version v1.0.0-CHS
+Dialogue: 0,0:00:56.61,0:00:59.70,CRED,,0,0,0,,{\fad(900,900)\fs50}翻译版本  {\fs}v1.0.0-CHS
+Comment: 0,0:00:00.00,0:22:36.83,DEFT,,0,0,0,,Translator(s): 妙挖種子
+Dialogue: 0,0:01:06.50,0:01:09.25,CRED,,0,0,0,,{\fad(900,900)\fs50}翻译  {\fs}妙挖種子
+Comment: 0,0:00:00.00,0:22:36.83,DEFT,,0,0,0,,Proofreader(s): SerCom_KC
+Dialogue: 0,0:01:15.59,0:01:18.68,CRED,,0,0,0,,{\fad(900,900)\fs50}校对  {\fs}SerCom_KC
+Comment: 0,0:01:30.77,0:01:34.11,CRED,,0,0,0,,{\fad(900,900)\fs50}encoded by {\fs}
+Dialogue: 0,0:00:00.98,0:00:05.81,RATN,,0,0,0,,{\3c&HFFFFFF&\fs50}【家长提示】本片的评级为 TV-14-V，可能包含暴力等内容，\N因而不建议 14 岁以下儿童独自观赏。
+Comment: 0,0:00:00.98,0:00:51.48,DEFT,,0,0,0,,-- OP --
+Dialogue: 0,0:00:02.96,0:00:06.27,DIAG,Samurai Jack,0,0,0,,50年过去了\N{\fs40}50 years have passed,
+Dialogue: 0,0:00:06.27,0:00:09.36,DIAG,Samurai Jack,0,0,0,,我的年岁却没有跟着增长\N{\fs40}but I do not age.
+Dialogue: 0,0:00:12.65,0:00:14.98,DIAG,Samurai Jack,0,0,0,,时间  再无撼动我一丝一毫\N{\fs40}Time has lost its effect on me.
+Dialogue: 0,0:00:20.94,0:00:24.04,DIAG,Samurai Jack,0,0,0,,折磨  却从未停止\N{\fs40}Yet the suffering continues.
+Dialogue: 0,0:00:26.25,0:00:29.05,DIAG,Samurai Jack,0,0,0,,阿蛊的魔爪扼住了过去\N{\fs40}Aku's grasp chokes the past,
+Dialogue: 0,0:00:29.05,0:00:31.46,DIAG,Samurai Jack,0,0,0,,现在  乃至未来\N{\fs40}present, and future.
+Dialogue: 0,0:00:32.67,0:00:35.18,DIAG,Samurai Jack,0,0,0,,希望已然消逝\N{\fs40}Hope is lost.
+Dialogue: 0,0:00:36.98,0:00:38.38,DIAG,Samurai Jack,0,0,0,,必须回去\N{\fs40}Gotta get back,
+Dialogue: 0,0:00:38.38,0:00:40.52,DIAG,Samurai Jack,0,0,0,,回到过去\N{\fs40}back to the past.
+Dialogue: 0,0:00:40.52,0:00:41.85,DIAG,Samurai Jack,0,0,0,,{\fad(0,150)}杰克武士\N{\fs40}Samurai Jack.
+Dialogue: 0,0:01:16.87,0:01:18.72,DIAG,Samurai Jack,0,0,0,,{\an8}噢  你好啊  小家伙\N{\fs40}Oh! Hello, little friend.
+Dialogue: 0,0:01:20.31,0:01:23.81,DIAG,Samurai Jack,0,0,0,,这山顶上是不是有一个时空隧道？\N{\fs40}I don't suppose you know if there is a time portal atop this mountain, do you?
+Dialogue: 0,0:01:25.73,0:01:27.48,DIAG,Samurai Jack,0,0,0,,你也不清楚？\N{\fs40}No?
+Dialogue: 0,0:01:27.48,0:01:28.40,DIAG,Samurai Jack,0,0,0,,还是？\N{\fs40}Yes?
+Dialogue: 0,0:01:30.57,0:01:32.48,DIAG,Samurai Jack,0,0,0,,{\an8}阿蛊一直都在破坏时空隧道\N{\fs40}Aku has destroyed many.
+Dialogue: 0,0:01:32.48,0:01:34.32,DIAG,Samurai Jack,0,0,0,,{\an8}现在剩下来的大概没多少了吧\N{\fs40}I worry that there are none left.
+Dialogue: 0,0:02:43.85,0:02:44.85,DIAG,Aku,0,0,0,,\N{\fs40}Phew!
+Dialogue: 0,0:02:44.85,0:02:47.06,DIAG,Aku,0,0,0,,差一点点啊\N{\fs40}That was close!
+Dialogue: 0,0:02:47.06,0:02:50.23,DIAG,Aku,0,0,0,,没想到你这么快就跑到这儿来了\N{\fs40}I didn't think you'd get here so fast.
+Dialogue: 0,0:02:54.65,0:02:55.78,DIAG,Aku,0,0,0,,真是愚蠢！\N{\fs40}Fool!
+Dialogue: 0,0:03:01.07,0:03:03.32,DIAG,Aku,0,0,0,,对了  讲个笑话\N{\fs40}Oh, fun fact --
+Dialogue: 0,0:03:03.32,0:03:09.71,DIAG,Aku,0,0,0,,那可是最后一个时空隧道哦\N{\fs40}that was the last remaining time portal in existence!
+Dialogue: 0,0:03:20.30,0:03:22.89,DIAG,Aku,0,0,0,,哇  好气啊！\N{\fs40}Ooh, so angry!
+Dialogue: 0,0:03:22.89,0:03:24.64,DIAG,Aku,0,0,0,,注意身体啊  武士\N{\fs40}Be careful, Samurai --
+Dialogue: 0,0:03:24.64,0:03:28.14,DIAG,Aku,0,0,0,,这样下去是会气出心脏病的喔\N{\fs40}so much stress will give you a heart attack.
+Dialogue: 0,0:03:28.14,0:03:30.69,DIAG,Aku,0,0,0,,哎呀  我干嘛要说这个呢\N{\fs40}Ooh! What am I saying?
+Dialogue: 0,0:03:30.69,0:03:32.23,DIAG,Aku,0,0,0,,您就气您的吧\N{\fs40}Please continue!
+Dialogue: 0,0:03:32.23,0:03:34.56,DIAG,Aku,0,0,0,,刚才就当我什么都没说\N{\fs40}Never mind what I said!
+Dialogue: 0,0:03:38.48,0:03:39.24,DIAG,Aku,0,0,0,,\N{\fs40}Whoa!
+Dialogue: 0,0:03:41.57,0:03:42.91,DIAG,Aku,0,0,0,,\N{\fs40}Ho, ho!
+Dialogue: 0,0:03:42.91,0:03:45.16,DIAG,Aku,0,0,0,,想得美  武士\N{\fs40}Not so fast, Samurai.
+Dialogue: 0,0:03:45.16,0:03:48.33,DIAG,Aku,0,0,0,,我可不会乖乖挨那把剑砍\N{\fs40}I know better than to mess with that sword!
+Dialogue: 0,0:03:49.91,0:03:51.83,DIAG,Aku,0,0,0,,我就先走一步了\N{\fs40}But before I go,
+Dialogue: 0,0:03:51.83,0:03:55.25,DIAG,Aku,0,0,0,,送你那群小家伙当出气筒吧\N{\fs40}I'll leave you someone to play with.
+Dialogue: 0,0:05:13.45,0:05:14.83,DIAG,Samurai Jack,0,0,0,,自从那天起\N{\fs40}And so...
+Dialogue: 0,0:05:14.83,0:05:17.46,DIAG,Samurai Jack,0,0,0,,{\fad(0,1000)}我就再也找不到它了\N{\fs40}I was not able to find it again.
+Dialogue: 0,0:05:23.42,0:05:23.88,DIAG,Samurai Jack,0,0,0,,就是那里\N{\fs40}There!
+Dialogue: 0,0:06:12.97,0:06:14.27,DIAG,Samurai Jack,0,0,0,,我们到了\N{\fs40}We are here.
+Dialogue: 0,0:06:56.77,0:06:58.10,DIAG,Samurai Jack,0,0,0,,不在这里\N{\fs40}It's not here.
+Dialogue: 0,0:06:59.14,0:07:00.31,DIAG,Ashi,0,0,0,,会不会有谁把它拿走了？\N{\fs40}Could someone else have taken it?
+Dialogue: 0,0:07:00.90,0:07:01.81,DIAG,Samurai Jack,0,0,0,,不可能的\N{\fs40}No.
+Dialogue: 0,0:07:03.48,0:07:05.48,DIAG,Samurai Jack,0,0,0,,我现在终于想通了\N{\fs40}I realize now that...
+Dialogue: 0,0:07:05.48,0:07:08.07,DIAG,Samurai Jack,0,0,0,,不是我弄丢了剑\N{\fs40}I did not lose the sword...
+Dialogue: 0,0:07:08.07,0:07:09.57,DIAG,Samurai Jack,0,0,0,,而是剑离开了我\N{\fs40}but the sword left me.
+Dialogue: 0,0:07:18.58,0:07:20.50,DIAG,Samurai Jack,0,0,0,,谢谢你  朋友\N{\fs40}Thank you, friend.
+Dialogue: 0,0:07:20.50,0:07:21.50,DIAG,Ashi,0,0,0,,嗯  谢谢你\N{\fs40}Yes, thank you.
+Dialogue: 0,0:07:34.18,0:07:36.76,DIAG,Samurai Jack,0,0,0,,我不知道这一去要什么时候才能回来\N{\fs40}I do not know how long this may take.
+Dialogue: 0,0:07:36.76,0:07:38.27,DIAG,Ashi,0,0,0,,我跟你去不就好了\N{\fs40}I'll go with you.
+Dialogue: 0,0:07:38.27,0:07:39.93,DIAG,Samurai Jack,0,0,0,,绝对不行\N{\fs40}You cannot.
+Dialogue: 0,0:07:39.93,0:07:42.19,DIAG,Samurai Jack,0,0,0,,这是我一个人的旅程\N{\fs40}It is something that I must do on my own.
+Dialogue: 0,0:07:44.11,0:07:45.11,DIAG,Ashi,0,0,0,,等等  我…\N{\fs40}Wait, I...
+Dialogue: 0,0:07:52.70,0:07:55.83,DIAG,Ashi,0,0,0,,噢  那我就…\N{\fs40}Oh. I guess I'll just...
+Dialogue: 0,0:07:55.83,0:07:56.83,DIAG,Ashi,0,0,0,,等你吧\N{\fs40}wait here.
+Dialogue: 0,0:11:02.29,0:11:03.80,DIAG,Monk,0,0,0,,你是否心存迷惘？\N{\fs40}Are you lost?
+Dialogue: 0,0:11:04.96,0:11:05.72,DIAG,Samurai Jack,0,0,0,,是\N{\fs40}Yes.
+Dialogue: 0,0:11:06.31,0:11:07.81,DIAG,Monk,0,0,0,,很好\N{\fs40}Good.
+Dialogue: 0,0:11:07.81,0:11:09.31,DIAG,Monk,0,0,0,,进来沏杯茶吧\N{\fs40}Come make tea.
+Dialogue: 0,0:11:29.12,0:11:30.33,DIAG,Ashi,0,0,0,,给我站住！\N{\fs40}Hold it.
+Dialogue: 0,0:11:32.00,0:11:34.42,DIAG,Ashi,0,0,0,,你们想干什么？\N{\fs40}Where do you think you're going?
+Dialogue: 0,0:11:34.42,0:11:36.63,DIAG,[Orc Army],0,0,0,,上到山顶  杀了武士\N{\fs40}Up the mountain, to kill the Samurai.
+Dialogue: 0,0:11:36.63,0:11:37.84,DIAG,[Orc Army],0,0,0,,跟你有什么关系吗？\N{\fs40}What's it to you?
+Dialogue: 0,0:11:40.51,0:11:42.51,DIAG,Ashi,0,0,0,,有我在  你们休想再前进一步\N{\fs40}I'm going to stop you.
+Dialogue: 0,0:11:50.99,0:11:53.52,DIAG,[Orc Army],0,0,0,,喂  怎么不走了  啥事儿那么好笑？\N{\fs40}Hey, why have we stopped? What's so funny?
+Dialogue: 0,0:11:54.10,0:11:55.23,DIAG,[Orc Army],0,0,0,,有个小丫头挡在前面\N{\fs40}It's a girl!
+Dialogue: 0,0:11:55.23,0:11:57.57,DIAG,[Orc Army],0,0,0,,说什么休想再进一步之类的\N{\fs40}She says she's going to stop us.
+Dialogue: 0,0:11:58.36,0:12:00.15,DIAG,[Orc Army],0,0,0,,他说啥？\N{\fs40}What did he say?
+Dialogue: 0,0:12:00.15,0:12:01.78,DIAG,[Orc Army],0,0,0,,大概是松鼠什么的吧\N{\fs40}Something about a squirrel.
+Dialogue: 0,0:12:01.78,0:12:03.61,DIAG,[Orc Army],0,0,0,,松鼠啊  太棒了\N{\fs40}I love squirrels!
+Dialogue: 0,0:12:03.61,0:12:05.62,DIAG,[Orc Army],0,0,0,,要准备吃午餐了吗？\N{\fs40}Is it lunch already?
+Dialogue: 0,0:12:05.62,0:12:10.37,DIAG,[Orc Army],0,0,0,,你个小不点  还能阻止我们整个军队？\N{\fs40}So a little thing like you is gonna stop this whole army, huh?
+Dialogue: 0,0:12:10.37,0:12:11.21,DIAG,Ashi,0,0,0,,能啊\N{\fs40}Yep.
+Dialogue: 0,0:12:11.79,0:12:15.63,DIAG,[Orc Army],0,0,0,,我们可是要把你千刀万剐\N{\fs40}We're gonna rip you apart in a bunch of pieces,
+Dialogue: 0,0:12:15.63,0:12:21.22,DIAG,[Orc Army],0,0,0,,然后堆起来  再把你碎尸万段的喔\N{\fs40}and then we're gonna take those pieces and rip them apart into even more pieces!
+Dialogue: 0,0:12:21.22,0:12:22.47,DIAG,Ashi,0,0,0,,放马过来啊\N{\fs40}I'm waiting.
+Dialogue: 0,0:12:22.47,0:12:23.63,DIAG,[Orc Army],0,0,0,,\N{\fs40}Hmm?!
+Dialogue: 0,0:12:48.66,0:12:49.49,DIAG,[Orc Army],0,0,0,,\N{\fs40}Huh?
+Dialogue: 0,0:16:23.21,0:16:24.21,DIAG,Ashi,0,0,0,,母亲？\N{\fs40}Mother?
+Dialogue: 0,0:16:24.21,0:16:27.00,DIAG,High Priestess,0,0,0,,我就知道你会让我们蒙羞\N{\fs40}I knew you would fail us.
+Dialogue: 0,0:16:27.00,0:16:30.63,DIAG,High Priestess,0,0,0,,你是最厉害的  却也是最不能专注的\N{\fs40}You were the strongest, but the most unfocused.
+Dialogue: 0,0:16:30.63,0:16:34.22,DIAG,High Priestess,0,0,0,,很容易分心  对什么东西都抱有疑问\N{\fs40}Always distracted, questioning everything.
+Dialogue: 0,0:16:34.80,0:16:37.35,DIAG,High Priestess,0,0,0,,不过现在回头还不晚\N{\fs40}But all that can change.
+Dialogue: 0,0:16:37.35,0:16:40.14,DIAG,High Priestess,0,0,0,,你仍然可以为吾主带去无上的荣耀\N{\fs40}You can still honor our Lord Father.
+Dialogue: 0,0:16:41.06,0:16:44.06,DIAG,High Priestess,0,0,0,,消灭武士  阿喜\N{\fs40}Destroy the Samurai, Ashi.
+Dialogue: 0,0:16:47.36,0:16:48.65,DIAG,Ashi,0,0,0,,不\N{\fs40}No.
+Dialogue: 0,0:16:48.65,0:16:51.13,DIAG,Ashi,0,0,0,,你对一切的看法都是错误的\N{\fs40}You were wrong about everything.
+Dialogue: 0,0:16:51.13,0:16:52.57,DIAG,Ashi,0,0,0,,而杰克让我看清了真相\N{\fs40}Jack showed me the truth.
+Dialogue: 0,0:16:53.20,0:16:55.16,DIAG,High Priestess,0,0,0,,那么  你也是死路一条了\N{\fs40}Then you, too, will die.
+Dialogue: 0,0:17:46.21,0:17:49.00,DIAG,High Priestess,0,0,0,,你为什么要站在你亲人的对立面？\N{\fs40}How could you betray your family?
+Dialogue: 0,0:17:49.00,0:17:51.34,DIAG,High Priestess,0,0,0,,他杀了你的姐妹！\N{\fs40}He killed your sisters!
+Dialogue: 0,0:17:51.76,0:17:54.42,DIAG,High Priestess,0,0,0,,你却放他生路\N{\fs40}And you let him live!
+Dialogue: 0,0:17:55.30,0:17:57.49,DIAG,Ashi,0,0,0,,不对  杀了她们的人是你！\N{\fs40}No, you killed them!
+Dialogue: 0,0:17:57.49,0:17:59.39,DIAG,Ashi,0,0,0,,对你来说  我们诞生的意义只有一个\N{\fs40}We were made for one purpose --
+Dialogue: 0,0:17:59.39,0:18:00.80,DIAG,Ashi,0,0,0,,那就是杀戮！\N{\fs40}to kill!
+Dialogue: 0,0:18:00.80,0:18:03.14,DIAG,Ashi,0,0,0,,我们的命运从出生起就被你封死了\N{\fs40}Our fate was sealed the day we were born!
+Dialogue: 0,0:18:06.10,0:18:09.02,DIAG,High Priestess,0,0,0,,那武士是我们的宿敌\N{\fs40}The Samurai is our mortal enemy.
+Dialogue: 0,0:18:09.02,0:18:12.07,DIAG,High Priestess,0,0,0,,就算不惜代价  也得让他死\N{\fs40}He must die at any cost.
+Dialogue: 0,0:18:15.07,0:18:15.65,DIAG,Ashi,0,0,0,,不\N{\fs40}No.
+Dialogue: 0,0:18:33.09,0:18:35.09,DIAG,Monk,0,0,0,,这还真是糟糕啊\N{\fs40}This is terrible.
+Dialogue: 0,0:18:35.63,0:18:36.92,DIAG,Samurai Jack,0,0,0,,真的？\N{\fs40}Really?
+Dialogue: 0,0:18:36.92,0:18:37.92,DIAG,Monk,0,0,0,,正是\N{\fs40}Yes.
+Dialogue: 0,0:18:37.92,0:18:40.43,DIAG,Monk,0,0,0,,此可谓  糟糕至极\N{\fs40}Yes, quite terrible.
+Dialogue: 0,0:18:40.43,0:18:43.51,DIAG,Monk,0,0,0,,虽然这杯茶蕴含了所有必要的材料\N{\fs40}This tea has all the necessary ingredients...
+Dialogue: 0,0:18:43.51,0:18:47.10,DIAG,Monk,0,0,0,,但是偏偏少了最重要的一味\N{\fs40}but it lacks the most important one --
+Dialogue: 0,0:18:47.56,0:18:48.77,DIAG,Monk,0,0,0,,平衡\N{\fs40}balance.
+Dialogue: 0,0:18:48.77,0:18:53.02,DIAG,Monk,0,0,0,,我知道你为什么会在寻找剑的途中陷入迷惘了\N{\fs40}I see why your path to the sword remains clouded.
+Dialogue: 0,0:18:53.32,0:18:54.81,DIAG,Samurai Jack,0,0,0,,难道不是这条路吗？\N{\fs40}This isn't the path?!
+Dialogue: 0,0:18:54.81,0:18:56.36,DIAG,Samurai Jack,0,0,0,,我不明白\N{\fs40}I don't understand.
+Dialogue: 0,0:18:56.36,0:18:58.36,DIAG,Samurai Jack,0,0,0,,还望您务必指点一二\N{\fs40}Then you must show me the way!
+Dialogue: 0,0:18:58.82,0:19:00.60,DIAG,Monk,0,0,0,,我做不到\N{\fs40}I cannot.
+Dialogue: 0,0:19:00.60,0:19:04.16,DIAG,Monk,0,0,0,,能为你指明道路的人不是我\N{\fs40}It is not for me to show you your path.
+Dialogue: 0,0:19:04.55,0:19:06.77,DIAG,[Mad Jack],0,0,0,,这家伙就知道搪塞人\N{\fs40}That's fortune cookie nonsense!
+Dialogue: 0,0:19:06.77,0:19:09.71,DIAG,[Mad Jack],0,0,0,,他知道剑在哪儿  他就是故意不告诉你\N{\fs40}He knows where it is. He just won't tell you.
+Dialogue: 0,0:19:09.71,0:19:12.38,DIAG,Samurai Jack,0,0,0,,拜托  请一定要告诉我\N{\fs40}Please, you must tell me.
+Dialogue: 0,0:19:12.83,0:19:15.55,DIAG,Monk,0,0,0,,此物只可由你自己争取\N{\fs40}That is something you must earn.
+Dialogue: 0,0:19:15.55,0:19:17.46,DIAG,[Mad Jack],0,0,0,,争取？！\N{\fs40}Earn?!
+Dialogue: 0,0:19:17.71,0:19:19.88,DIAG,[Mad Jack],0,0,0,,我们所经历的这一切\N{\fs40}After everything we've done,
+Dialogue: 0,0:19:19.88,0:19:21.97,DIAG,[Mad Jack],0,0,0,,所忍受的这一切\N{\fs40}everything we've been through --
+Dialogue: 0,0:19:22.68,0:19:26.97,DIAG,[Mad Jack],0,0,0,,死亡  痛失  以及折磨  如此种种\N{\fs40}the death, the loss, the suffering!
+Dialogue: 0,0:19:27.39,0:19:30.60,DIAG,[Mad Jack],0,0,0,,你有什么资格不把我们应有的东西还回来？！\N{\fs40}Who are you to deny us what is rightfully ours?!
+Dialogue: 0,0:19:31.52,0:19:32.06,DIAG,Samurai Jack,0,0,0,,够了\N{\fs40}Enough.
+Dialogue: 0,0:19:34.44,0:19:36.98,DIAG,Samurai Jack,0,0,0,,我们丢了剑的原因就在于你\N{\fs40}We have lost the sword because of you.
+Dialogue: 0,0:19:36.98,0:19:39.28,DIAG,[Mad Jack],0,0,0,,没有我  我们哪里能活到今天！\N{\fs40}I have kept us alive!
+Dialogue: 0,0:19:39.28,0:19:41.45,DIAG,[Mad Jack],0,0,0,,他才是把剑从我们身边夺走的家伙！\N{\fs40}He's the one who has taken it from us!
+Dialogue: 0,0:19:41.45,0:19:42.91,DIAG,[Mad Jack],0,0,0,,他知道剑在哪里！\N{\fs40}He knows where it is!
+Dialogue: 0,0:19:43.28,0:19:44.24,DIAG,Samurai Jack,0,0,0,,不\N{\fs40}No.
+Dialogue: 0,0:19:45.33,0:19:47.99,DIAG,Samurai Jack,0,0,0,,你对我的侵蚀实在是太久了\N{\fs40}I've let you consume me for far too long.
+Dialogue: 0,0:19:48.70,0:19:50.66,DIAG,[Mad Jack],0,0,0,,你休想阻挠我\N{\fs40}You're in my way.
+Dialogue: 0,0:19:53.79,0:19:55.29,DIAG,Samurai Jack,0,0,0,,你\N{\fs40}You.
+Dialogue: 0,0:19:55.29,0:19:57.92,DIAG,Samurai Jack,0,0,0,,你把所有的过去都掩盖了起来\N{\fs40}You are the one who has kept the past hidden.
+Dialogue: 0,0:19:58.84,0:20:01.88,DIAG,Samurai Jack,0,0,0,,以你的愤怒  你的挫折\N{\fs40}Your anger, your frustration.
+Dialogue: 0,0:20:02.97,0:20:05.51,DIAG,Samurai Jack,0,0,0,,你就是个傻子！\N{\fs40}You're a fool!
+Dialogue: 0,0:20:05.51,0:20:08.01,DIAG,Samurai Jack,0,0,0,,你让我们蒙蔽了双眼\N{\fs40}You have blinded us,
+Dialogue: 0,0:20:08.01,0:20:09.72,DIAG,Samurai Jack,0,0,0,,但我已经看开了\N{\fs40}but now I can see.
+Dialogue: 0,0:20:11.23,0:20:13.35,DIAG,[Mad Jack],0,0,0,,你需要我！\N{\fs40}You need me!
+Dialogue: 0,0:20:14.77,0:20:17.86,DIAG,Monk,0,0,0,,{\fad(0,250)}这样你就平衡了\N{\fs40}Now you are balanced.
+Dialogue: 0,0:20:24.20,0:20:28.12,DIAG,[Odin],0,0,0,,汝与父一同  乃天选之人\N{\fs40}Like your father, you have been chosen.
+Dialogue: 0,0:20:28.12,0:20:32.16,DIAG,[Ra],0,0,0,,身负遏阻极邪之使命\N{\fs40}To stop a force of ultimate evil.
+Dialogue: 0,0:20:32.16,0:20:34.29,DIAG,[Rama],0,0,0,,汝有这个资格\N{\fs40}You are worthy.
+Dialogue: 0,0:21:21.63,0:21:22.51,DIAG,Samurai Jack,0,0,0,,阿喜\N{\fs40}Ashi.
+Dialogue: 0,0:21:28.26,0:21:29.18,DIAG,Ashi,0,0,0,,杰克？\N{\fs40}Jack?
+Dialogue: 0,0:21:29.68,0:21:31.01,DIAG,Samurai Jack,0,0,0,,是我\N{\fs40}Yes.
+Dialogue: 0,0:21:31.01,0:21:31.85,DIAG,Samurai Jack,0,0,0,,在下正是\N{\fs40}It is me.
+Dialogue: 0,0:21:32.60,0:21:34.02,DIAG,Ashi,0,0,0,,你拿回你的剑了\N{\fs40}You got your sword.
+Dialogue: 0,0:21:34.98,0:21:37.15,DIAG,Ashi,0,0,0,,还刮了胡子剃了头？\N{\fs40}And a shave and a haircut.
+Dialogue: 0,0:21:37.85,0:21:39.36,DIAG,Samurai Jack,0,0,0,,嗯  确实\N{\fs40}Hmm, yes.
+Dialogue: 0,0:21:40.36,0:21:41.52,DIAG,Samurai Jack,0,0,0,,而你…\N{\fs40}And you...
+Dialogue: 0,0:21:41.53,0:21:43.19,DIAG,Samurai Jack,0,0,0,,看来你也没闲着呢\N{\fs40}you have been very busy.
+Dialogue: 0,0:21:43.94,0:21:44.86,DIAG,[Orc Army],0,0,0,,\N{\fs40}Ow.
+Dialogue: 0,0:21:47.32,0:21:48.45,DIAG,Samurai Jack,0,0,0,,谢谢你\N{\fs40}Thank you.
+Dialogue: 0,0:21:50.03,0:21:50.87,DIAG,Ashi,0,0,0,,那么  接下来呢？\N{\fs40}So, what next?
+Dialogue: 0,0:21:52.37,0:21:53.50,DIAG,Samurai Jack,0,0,0,,阿蛊！\N{\fs40}Aku!
+Dialogue: 0,0:21:55.21,0:21:55.87,EDEN,,0,0,0,,♪ Watch out ♪
+Dialogue: 0,0:21:55.87,0:21:57.00,EDEN,,0,0,0,,♪ Gotta get back ♪
+Dialogue: 0,0:21:57.00,0:21:57.92,EDEN,,0,0,0,,♪ Back to the past ♪
+Dialogue: 0,0:21:57.42,0:22:00.88,EDEN,,0,0,0,,{\an2}♪ Jack, Jack, Jack, Jack, Jack ♪
+Dialogue: 0,0:21:57.92,0:21:59.67,EDEN,,0,0,0,,♪ Samurai Jack ♪
+Dialogue: 0,0:21:59.67,0:22:00.54,EDEN,,0,0,0,,♪ Wa-Watch out ♪
+Dialogue: 0,0:22:05.01,0:22:06.17,TITL,,0,0,0,,{\pos(960,650)}第玖拾捌集
+Dialogue: 0,0:22:05.01,0:22:08.72,EDEN,,0,0,0,,♪ Gotta get back, back to the past, Samurai Jack ♪
+Dialogue: 0,0:22:08.72,0:22:09.68,EDEN,,0,0,0,,♪ Watch out ♪
+Dialogue: 0,0:22:12.85,0:22:14.73,EDEN,,0,0,0,,{\an2}♪ Jack, Jack, Jack, Jack, Jack ♪
+Dialogue: 0,0:22:18.48,0:22:19.56,EDEN,,0,0,0,,♪ Watch out ♪
+Dialogue: 0,0:22:19.56,0:22:21.61,EDEN,,0,0,0,,♪ Gotta get back ♪
+Dialogue: 0,0:22:20.98,0:22:24.44,EDEN,,0,0,0,,{\an2}♪ Jack, Jack, Jack, Jack, Jack ♪
+Dialogue: 0,0:22:21.61,0:22:23.15,EDEN,,0,0,0,,♪ Samurai Jack ♪
+Dialogue: 0,0:22:23.15,0:22:24.11,EDEN,,0,0,0,,♪ Wa-Watch out ♪
