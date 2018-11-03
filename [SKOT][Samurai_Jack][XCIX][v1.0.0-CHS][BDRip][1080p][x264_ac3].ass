@@ -1,0 +1,234 @@
+﻿[Script Info]
+Title: Samurai Jack - XCIX
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Original Script: SerCom_KC
+Original Translation: 妙挖種子
+Original Timing: SerCom_KC
+Update Details: v1.0.0
+Original Editing: SerCom_KC
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: DIAG,思源黑体 Medium,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,5,0,2,30,30,30,1
+Style: RATN,思源黑体 Medium,75,&HFFFFFFFF,&HFF0000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,5,0,8,30,30,30,1
+Style: DESC,思源黑体 Medium,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.5,0,8,30,30,30,1
+Style: EDEN,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,30,0
+Style: TITL,方正黑体_GBK,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,5,0,2,30,30,30,1
+Style: CRED,Source Han Sans Bold,75,&H00FFFFFF,&H000000FF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,1,0,5,2,0,0,40,1
+Style: DEFT,Source Han Sans Regular,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,50,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:21:59.38,DEFT,,0,0,0,,This script is a work of Translated by @SerCom_KC Open Translation Project.
+Dialogue: 0,0:00:46.44,0:00:51.53,CRED,,0,0,0,,{\fad(2550,1050)\an5\shad0\fnSource Han Sans Heavy\pos(960,220)}Translated by @SerCom_KC\N{\fnSource Han Sans Regular\fs50}OPEN TRANSLATION PROJECT
+Comment: 0,0:00:00.00,0:21:59.38,DEFT,,0,0,0,,For more details, please visit https://translatedby.sercomkc.org/sjs05
+Comment: 0,0:00:00.00,0:21:59.38,DEFT,,0,0,0,,
+Comment: 0,0:00:00.00,0:21:59.38,DEFT,,0,0,0,,This script is released under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+Comment: 0,0:00:00.00,0:21:59.38,DEFT,,0,0,0,,Any unauthorized commercial usage is strongly prohibited.
+Comment: 0,0:00:00.00,0:21:59.38,DEFT,,0,0,0,,
+Comment: 0,0:00:00.00,0:21:59.38,DEFT,,0,0,0,,Version v1.0.0-CHS
+Dialogue: 0,0:00:54.86,0:00:57.28,CRED,,0,0,0,,{\fad(900,900)\fs50}翻译版本  {\fs}v1.0.0-CHS
+Comment: 0,0:00:00.00,0:21:59.38,DEFT,,0,0,0,,Translator(s): 妙挖種子
+Dialogue: 0,0:01:01.33,0:01:03.75,CRED,,0,0,0,,{\fad(900,900)\fs50}翻译  {\fs}妙挖種子
+Comment: 0,0:00:00.00,0:21:59.38,DEFT,,0,0,0,,Proofreader(s): SerCom_KC
+Dialogue: 0,0:01:06.92,0:01:09.34,CRED,,0,0,0,,{\fad(900,900)\fs50}校对  {\fs}SerCom_KC
+Comment: 0,0:01:12.80,0:01:16.13,CRED,,0,0,0,,{\fad(900,900)\fs50}encoded by {\fs}
+Dialogue: 0,0:00:00.98,0:00:05.81,RATN,,0,0,0,,{\3c&HFFFFFF&\fs50}【家长提示】本片的评级为 TV-PG-V，可能包含暴力等内容，\N因而不建议幼儿独自观赏。
+Comment: 0,0:00:00.98,0:00:51.48,DEFT,,0,0,0,,-- OP --
+Dialogue: 0,0:00:02.96,0:00:06.27,DIAG,Samurai Jack,0,0,0,,50年过去了\N{\fs40}50 years have passed,
+Dialogue: 0,0:00:06.27,0:00:09.36,DIAG,Samurai Jack,0,0,0,,我的年岁却没有跟着增长\N{\fs40}but I do not age.
+Dialogue: 0,0:00:12.65,0:00:14.98,DIAG,Samurai Jack,0,0,0,,时间  再无撼动我一丝一毫\N{\fs40}Time has lost its effect on me.
+Dialogue: 0,0:00:20.94,0:00:24.04,DIAG,Samurai Jack,0,0,0,,折磨  却从未停止\N{\fs40}Yet the suffering continues.
+Dialogue: 0,0:00:26.25,0:00:29.05,DIAG,Samurai Jack,0,0,0,,阿蛊的魔爪扼住了过去\N{\fs40}Aku's grasp chokes the past,
+Dialogue: 0,0:00:29.05,0:00:31.46,DIAG,Samurai Jack,0,0,0,,现在  乃至未来\N{\fs40}present, and future.
+Dialogue: 0,0:00:32.67,0:00:35.18,DIAG,Samurai Jack,0,0,0,,希望已然消逝\N{\fs40}Hope is lost.
+Dialogue: 0,0:00:36.98,0:00:38.38,DIAG,Samurai Jack,0,0,0,,必须回去\N{\fs40}Gotta get back,
+Dialogue: 0,0:00:38.38,0:00:40.52,DIAG,Samurai Jack,0,0,0,,回到过去\N{\fs40}back to the past.
+Dialogue: 0,0:00:40.52,0:00:41.85,DIAG,Samurai Jack,0,0,0,,{\fad(0,150)}杰克武士\N{\fs40}Samurai Jack.
+Dialogue: 0,0:01:55.01,0:01:56.59,DIAG,Ashi,0,0,0,,真是太不可思议了！\N{\fs40}Incredible.
+Dialogue: 0,0:01:57.22,0:01:58.26,DIAG,Samurai Jack,0,0,0,,我们先去吃东西吧\N{\fs40}We should eat.
+Dialogue: 0,0:01:58.26,0:02:00.01,DIAG,Samurai Jack,0,0,0,,等会儿要坐很久的\N{\fs40}This is going to be a long journey.
+Dialogue: 0,0:02:03.89,0:02:05.43,DIAG,Samurai Jack,0,0,0,,看起来好好吃的样子\N{\fs40}This looks good.
+Dialogue: 0,0:02:05.43,0:02:07.27,DIAG,Ashi,0,0,0,,你以前吃过这东西吗？\N{\fs40}Have you had it before?
+Dialogue: 0,0:02:08.35,0:02:09.69,DIAG,Samurai Jack,0,0,0,,当然吃过\N{\fs40}Yes, of course.
+Dialogue: 0,0:02:09.69,0:02:11.73,DIAG,Samurai Jack,0,0,0,,还吃过很  很多次\N{\fs40}Many, many times.
+Dialogue: 0,0:02:11.73,0:02:13.77,DIAG,Samurai Jack,0,0,0,,就是  我吃过一些跟这差不多的\N{\fs40}Or something very similar.
+Dialogue: 0,0:02:13.78,0:02:16.36,DIAG,[Walrus Merchant],0,0,0,,嗯  嗯  都是好东西\N{\fs40}Yah, yah, all very good.
+Dialogue: 0,0:02:16.36,0:02:17.95,DIAG,[Walrus Merchant],0,0,0,,都是对你们好的东西\N{\fs40}Very good for you.
+Dialogue: 0,0:02:18.40,0:02:20.11,DIAG,Samurai Jack,0,0,0,,是吧  你也可以吃\N{\fs40}See? It is even good for you.
+Dialogue: 0,0:02:20.70,0:02:22.20,DIAG,Samurai Jack,0,0,0,,特别是这个\N{\fs40}This one especially.
+Dialogue: 0,0:02:23.20,0:02:24.66,DIAG,Samurai Jack,0,0,0,,\N{\fs40}Mmm, mmm.
+Dialogue: 0,0:02:27.41,0:02:29.62,DIAG,Samurai Jack,0,0,0,,嗯  好吃\N{\fs40}Mmm. Delicious.
+Dialogue: 0,0:02:33.13,0:02:35.00,DIAG,Samurai Jack,0,0,0,,来  尝一个\N{\fs40}Please, have some.
+Dialogue: 0,0:02:35.00,0:02:36.71,DIAG,Ashi,0,0,0,,不了  我就不用了  哈\N{\fs40}No! Thank you, heh.
+Dialogue: 0,0:02:37.67,0:02:40.01,DIAG,Ashi,0,0,0,,我还是去那边看看吧\N{\fs40}I'll just try something over here.
+Dialogue: 0,0:02:41.97,0:02:45.26,DIAG,[Walrus Merchant],0,0,0,,真是  女人心海底针啊  你说是吧？\N{\fs40}Woman -- who understands them, yah?
+Dialogue: 0,0:02:46.77,0:02:49.19,DIAG,Samurai Jack,0,0,0,,嗯  大概\N{\fs40}Yes... I guess.
+Dialogue: 0,0:03:07.70,0:03:10.54,DIAG,Samurai Jack,0,0,0,,总感觉有点不舒服啊\N{\fs40}I don't feel so good.
+Dialogue: 0,0:03:10.54,0:03:12.67,DIAG,Samurai Jack,0,0,0,,是不是我刚吃什么吃坏了？\N{\fs40}Maybe it was something I ate?
+Dialogue: 0,0:03:12.67,0:03:14.67,DIAG,Ashi,0,0,0,,应该是了\N{\fs40}Yeah, that might be it.
+Dialogue: 0,0:03:16.50,0:03:18.51,DIAG,Samurai Jack,0,0,0,,啊  现在好多了\N{\fs40}Ah, that's better.
+Dialogue: 0,0:03:31.64,0:03:33.90,DIAG,[Tiger Men],0,0,0,,借个位啊\N{\fs40}Excuse me.
+Dialogue: 0,0:03:35.48,0:03:37.90,DIAG,[Tiger Men],0,0,0,,不好意思啊\N{\fs40}Pardon me.
+Dialogue: 0,0:03:45.24,0:03:47.45,DIAG,Samurai Jack,0,0,0,,稍微有点…挤呢\N{\fs40}It's a little, uh... crowded.
+Dialogue: 0,0:03:47.45,0:03:48.62,DIAG,Ashi,0,0,0,,嗯\N{\fs40}Yes.
+Dialogue: 0,0:03:48.62,0:03:50.58,DIAG,Ashi,0,0,0,,啊  有东西顶到了\N{\fs40}Oh! Something's poking me.
+Dialogue: 0,0:03:51.83,0:03:53.33,DIAG,Samurai Jack,0,0,0,,噢！对不起\N{\fs40}Oh! I'm so sorry.
+Dialogue: 0,0:04:14.02,0:04:15.35,DIAG,Samurai Jack,0,0,0,,抱歉  我…\N{\fs40}Sorry, I --
+Dialogue: 0,0:04:14.02,0:04:15.35,DIAG,Ashi,0,0,0,,{\an8}不  是我…\N{\fs40}No, I --
+Dialogue: 0,0:04:23.45,0:04:25.03,DIAG,Samurai Jack,0,0,0,,这有点好笑啊\N{\fs40}That was quite humorous,
+Dialogue: 0,0:04:25.03,0:04:26.78,DIAG,Samurai Jack,0,0,0,,我们这么抓着杆子\N{\fs40}the way we were trying to grab the pole
+Dialogue: 0,0:04:26.78,0:04:29.45,DIAG,Samurai Jack,0,0,0,,结果我们的手总是…碰到一起\N{\fs40}but our hands kept... touching.
+Dialogue: 0,0:04:30.12,0:04:31.95,DIAG,Ashi,0,0,0,,\N{\fs40}Ha ha... ha.
+Dialogue: 0,0:04:37.00,0:04:39.38,DIAG,Samurai Jack,0,0,0,,好像有点儿开始变热了\N{\fs40}The temperature seems to be rising.
+Dialogue: 0,0:05:07.24,0:05:08.82,DESC,,0,0,0,,{\1c&H130D8B&\3c&H231C30&\fn思源黑体 Heavy\fs75\bord5}（去死）
+Dialogue: 0,0:05:16.25,0:05:18.17,DESC,,0,0,0,,{\1c&H281A95&\3c&H20182A&\fn思源黑体 Heavy\fs75\bord5}（死亡）
+Dialogue: 0,0:05:22.26,0:05:23.51,DIAG,Samurai Jack,0,0,0,,阿喜…\N{\fs40}Ashi...
+Dialogue: 0,0:05:23.51,0:05:30.35,DESC,,0,0,0,,{\1c&H5842E3&\3c&H201933&\fn思源黑体 Heavy\fs75\bord5}（去死  杰克武士）
+Dialogue: 0,0:05:27.68,0:05:28.84,DIAG,Samurai Jack,0,0,0,,有情况\N{\fs40}... we are not alone.
+Dialogue: 0,0:06:00.21,0:06:01.34,DIAG,Samurai Jack,0,0,0,,噢  不好意思  我…\N{\fs40}Oh! Sorry, I --
+Dialogue: 0,0:06:01.34,0:06:02.71,DIAG,Ashi,0,0,0,,不  是我的错\N{\fs40}No, I -- I'm sorry!
+Dialogue: 0,0:06:02.71,0:06:03.55,DIAG,Ashi,0,0,0,,我没有注意到你！\N{\fs40}I didn't see you!
+Dialogue: 0,0:06:04.13,0:06:04.80,DIAG,Samurai Jack & Ashi,0,0,0,,小心！\N{\fs40}Look out!
+Dialogue: 0,0:06:21.19,0:06:23.15,DIAG,Samurai Jack,0,0,0,,我们是不是离开这里会比较好\N{\fs40}Should we leave, perhaps?
+Dialogue: 0,0:06:23.15,0:06:25.36,DIAG,Ashi,0,0,0,,嗯  我觉得这样不错\N{\fs40}Yeah, I think that's a good idea.
+Dialogue: 0,0:06:26.24,0:06:27.40,DESC,,0,0,0,,{\1c&H060059&\3c&H020202&\fn思源黑体 Heavy\fs75\bord5}（哇！）
+Dialogue: 0,0:06:40.75,0:06:41.58,DIAG,[Camel Rider],0,0,0,,喂！\N{\fs40}Hey!
+Dialogue: 0,0:08:52.47,0:08:54.63,DIAG,Samurai Jack,0,0,0,,我们得找个地方避一避！\N{\fs40}We have to find some shelter!
+Dialogue: 0,0:08:56.30,0:08:57.14,DIAG,Ashi,0,0,0,,哪边？\N{\fs40}Where?!
+Dialogue: 0,0:08:57.60,0:08:58.39,DIAG,Ashi,0,0,0,,\N{\fs40}Aah!
+Dialogue: 0,0:09:02.73,0:09:03.73,DIAG,Samurai Jack,0,0,0,,前面那个是什么啊\N{\fs40}What is that?!
+Dialogue: 0,0:09:12.36,0:09:12.82,DIAG,Samurai Jack,0,0,0,,看那里！\N{\fs40}There!
+Dialogue: 0,0:09:34.01,0:09:36.34,DIAG,Ashi,0,0,0,,这是什么地方？\N{\fs40}What is this place?
+Dialogue: 0,0:09:36.34,0:09:37.63,DIAG,Samurai Jack,0,0,0,,我也说不清\N{\fs40}I don't know.
+Dialogue: 0,0:09:38.43,0:09:40.10,DIAG,Samurai Jack,0,0,0,,但这地方确实挺大\N{\fs40}But it is big.
+Dialogue: 0,0:09:50.48,0:09:51.77,DIAG,Samurai Jack,0,0,0,,阿喜  小心…\N{\fs40}Ashi, be care--
+Dialogue: 0,0:09:56.74,0:09:57.70,DIAG,Samurai Jack,0,0,0,,…点\N{\fs40}--ful.
+Dialogue: 0,0:09:57.70,0:09:59.03,DIAG,Ashi,0,0,0,,刚刚你说什么？\N{\fs40}Did you say something?
+Dialogue: 0,0:09:59.57,0:10:01.16,DIAG,Samurai Jack,0,0,0,,没什么\N{\fs40}No.
+Dialogue: 0,0:10:01.16,0:10:01.95,DIAG,Samurai Jack,0,0,0,,当我没说\N{\fs40}Never mind.
+Dialogue: 0,0:10:07.62,0:10:09.71,DIAG,Samurai Jack,0,0,0,,好像是某种文字\N{\fs40}Some kind of writing.
+Dialogue: 0,0:10:09.71,0:10:11.63,DIAG,Ashi,0,0,0,,看上面\N{\fs40}Look up.
+Dialogue: 0,0:10:11.63,0:10:13.13,DIAG,Ashi,0,0,0,,非常狭窄的空间\N{\fs40}Very confined space.
+Dialogue: 0,0:10:18.05,0:10:20.43,DIAG,Samurai Jack,0,0,0,,应该是监狱了\N{\fs40}This is some kind of prison.
+Dialogue: 0,0:10:20.43,0:10:21.72,DIAG,Ashi,0,0,0,,监狱？\N{\fs40}Prison?
+Dialogue: 0,0:10:21.72,0:10:23.72,DIAG,Samurai Jack,0,0,0,,但是囚犯哪儿去了？\N{\fs40}But where are its prisoners?
+Dialogue: 0,0:10:25.14,0:10:26.39,DIAG,Ashi,0,0,0,,\N{\fs40}Aaah!
+Dialogue: 0,0:10:34.57,0:10:35.48,DIAG,Samurai Jack,0,0,0,,没事吧？\N{\fs40}Are you all right?
+Dialogue: 0,0:10:37.28,0:10:38.15,DIAG,Ashi,0,0,0,,开始扩散了！\N{\fs40}It's spreading!
+Dialogue: 0,0:10:53.75,0:10:55.00,DIAG,Ashi,0,0,0,,到底是什么啊\N{\fs40}What was that?
+Dialogue: 0,0:10:55.00,0:10:57.26,DIAG,Samurai Jack,0,0,0,,不知道  但我们最好离开这里\N{\fs40}I don't know, but we should leave.
+Dialogue: 0,0:11:25.08,0:11:26.95,DIAG,Ashi,0,0,0,,前面应该就是我们进来的地方了\N{\fs40}The way we came in should be up ahead.
+Dialogue: 0,0:11:32.42,0:11:33.50,DIAG,Ashi,0,0,0,,不是吧\N{\fs40}Oh, no.
+Dialogue: 0,0:11:33.50,0:11:35.04,DIAG,Ashi,0,0,0,,明明就在这里的啊\N{\fs40}It should've been right here.
+Dialogue: 0,0:11:37.80,0:11:39.05,DIAG,Samurai Jack,0,0,0,,我们不能呆在这里！\N{\fs40}We have to keep going!
+Dialogue: 0,0:11:39.38,0:11:41.38,DIAG,Ashi,0,0,0,,杰克  抱歉  我…\N{\fs40}Jack, I'm sorry, I --
+Dialogue: 0,0:11:41.76,0:11:43.80,DIAG,Samurai Jack,0,0,0,,不  你不用道歉  我也觉得应该是这里\N{\fs40}No, please, I thought it was this way, also.
+Dialogue: 0,0:12:00.78,0:12:02.65,DIAG,Samurai Jack,0,0,0,,这地方到底是搞什么啊？\N{\fs40}What madness is this?
+Dialogue: 0,0:12:02.66,0:12:04.99,DIAG,Ashi,0,0,0,,管它是什么  总比被追上了要好\N{\fs40}I'll choose this over whatever is chasing us.
+Dialogue: 0,0:12:21.72,0:12:22.76,DIAG,Ashi,0,0,0,,我们迷路了\N{\fs40}We're lost!
+Dialogue: 0,0:12:22.76,0:12:24.09,DIAG,Samurai Jack,0,0,0,,只能继续往前走了！\N{\fs40}We have to keep moving!
+Dialogue: 0,0:12:35.85,0:12:37.61,DIAG,Ashi,0,0,0,,这里还有一间牢房啊\N{\fs40}It's another prison cell.
+Dialogue: 0,0:12:37.61,0:12:39.73,DIAG,Samurai Jack,0,0,0,,嗯  而且这个还很大\N{\fs40}Yes, a very big one.
+Dialogue: 0,0:12:42.49,0:12:44.61,DIAG,Samurai Jack,0,0,0,,关押在这里的大概就是那东西了吧\N{\fs40}And I'm afraid its occupant has returned.
+Dialogue: 0,0:13:16.85,0:13:17.94,DIAG,Samurai Jack,0,0,0,,阿喜  小心！\N{\fs40}Ashi, look out!
+Dialogue: 0,0:13:54.02,0:13:55.35,DIAG,Ashi,0,0,0,,赶紧离开这里吧\N{\fs40}We got to get out of here!
+Dialogue: 0,0:13:55.35,0:13:56.18,DIAG,Samurai Jack,0,0,0,,同感\N{\fs40}I agree.
+Dialogue: 0,0:14:39.98,0:14:41.69,DIAG,[Computer Voice],0,0,0,,{\an8}开始扫描\N{\fs40}Scan initiated.
+Dialogue: 0,0:14:44.98,0:14:47.44,DIAG,[Computer Voice],0,0,0,,{\an8}检测到非囚禁对象生命体\N{\fs40}Non-prisoner life-forms detected.
+Dialogue: 0,0:14:47.44,0:14:48.70,DIAG,[Computer Voice],0,0,0,,{\an8}准许进入\N{\fs40}Access granted.
+Dialogue: 0,0:14:53.62,0:14:56.12,DIAG,[Computer Voice],0,0,0,,{\an8}检测到多个牢房已被突破\N{\fs40}Multiple prison-cell breach detected.
+Dialogue: 0,0:14:56.12,0:14:58.71,DIAG,[Computer Voice],0,0,0,,{\an8}启动压制协议\N{\fs40}Containment protocol initiated.
+Dialogue: 0,0:14:59.62,0:15:02.13,DIAG,[Computer Voice],0,0,0,,{\an8}第三象限  检测到突破\N{\fs40}Quadrant III -- breach detected.
+Dialogue: 0,0:15:02.13,0:15:04.09,DIAG,[Computer Voice],0,0,0,,{\an8}囚禁对象  拉撒路-92\N{\fs40}Prisoner Lazarus-92.
+Dialogue: 0,0:15:04.09,0:15:07.67,DIAG,[Computer Voice],0,0,0,,{\an8}极度危险的复构可再生有机体\N{\fs40}Extremely dangerous multiple regenerating organism.
+Dialogue: 0,0:15:07.67,0:15:10.13,DIAG,[Computer Voice],0,0,0,,{\an8}紧急协议指南如下\N{\fs40}Emergency protocol instructions.
+Dialogue: 0,0:15:10.13,0:15:13.01,DIAG,[Computer Voice],0,0,0,,{\an8}无效化武器型号X-49\N{\fs40}Neutralizing weapon model X-49.
+Dialogue: 0,0:15:13.01,0:15:16.21,DIAG,[Computer Voice],0,0,0,,{\an8}待拉撒路-92进入武器范围后\N{\fs40}Once Lazarus-92 has entered the weapon vicinity,
+Dialogue: 0,0:15:16.21,0:15:19.11,DIAG,[Computer Voice],0,0,0,,{\an8}武器的启动顺序按以下步骤进行\N{\fs40}weapon sequence initiating directions follow.
+Dialogue: 0,0:15:19.11,0:15:19.77,DIAG,[Computer Voice],0,0,0,,{\an8}第一步…\N{\fs40}Step one --
+Dialogue: 0,0:15:21.77,0:15:22.60,DIAG,Ashi,0,0,0,,抱歉\N{\fs40}Sorry.
+Dialogue: 0,0:15:23.06,0:15:25.94,DIAG,[Computer Voice],0,0,0,,{\an8}只有按上述正确的武器启动序列进行操作\N{\fs40}And only after that proper weapon initializing sequence
+Dialogue: 0,0:15:25.94,0:15:28.49,DIAG,[Computer Voice],0,0,0,,{\an8}才能消灭拉撒路-92\N{\fs40}can Lazarus-92 be terminated.
+Dialogue: 0,0:15:28.49,0:15:29.57,DIAG,Samurai Jack,0,0,0,,等等  什么？！\N{\fs40}Wait. What?!
+Dialogue: 0,0:15:29.57,0:15:31.32,DIAG,[Computer Voice],0,0,0,,{\an8}以上为拉撒路协议的全部内容\N{\fs40}Lazarus protocol concluded.
+Dialogue: 0,0:15:31.91,0:15:32.95,DIAG,Samurai Jack,0,0,0,,别  等等啊  我还…\N{\fs40}No, please, I --
+Dialogue: 0,0:15:39.87,0:15:41.92,DIAG,Samurai Jack,0,0,0,,可是  到底要怎么启动啊？\N{\fs40}But how does one initiate it?
+Dialogue: 0,0:15:49.26,0:15:50.26,DIAG,Ashi,0,0,0,,我准备好了\N{\fs40}I am ready.
+Dialogue: 0,0:15:51.68,0:15:53.01,DIAG,Samurai Jack,0,0,0,,我也…\N{\fs40}As am I...
+Dialogue: 0,0:15:54.05,0:15:54.93,DIAG,Ashi,0,0,0,,那是什么东西？\N{\fs40}What is that?
+Dialogue: 0,0:15:54.93,0:15:58.72,DIAG,Samurai Jack,0,0,0,,这个  是专门用来消灭那个怪物的武器\N{\fs40}Well, it is a weapon designed specifically to kill the creature.
+Dialogue: 0,0:15:58.72,0:16:00.14,DIAG,Ashi,0,0,0,,太好了\N{\fs40}Excellent.
+Dialogue: 0,0:16:00.14,0:16:01.69,DIAG,Samurai Jack,0,0,0,,嗯…\N{\fs40}Yes...
+Dialogue: 0,0:16:02.19,0:16:03.02,DIAG,Ashi,0,0,0,,走吧\N{\fs40}Let's go.
+Dialogue: 0,0:16:27.63,0:16:28.63,DIAG,Ashi,0,0,0,,来了\N{\fs40}It's coming.
+Dialogue: 0,0:16:28.63,0:16:29.55,DIAG,Ashi,0,0,0,,把武器准备好\N{\fs40}Get ready the weapon.
+Dialogue: 0,0:16:30.13,0:16:30.92,DIAG,Samurai Jack,0,0,0,,好…\N{\fs40}Yes...
+Dialogue: 0,0:16:40.10,0:16:40.93,DIAG,Ashi,0,0,0,,趁现在  杰克！\N{\fs40}Now, Jack!
+Dialogue: 0,0:16:44.10,0:16:45.90,DIAG,Ashi,0,0,0,,杰克？杰克？\N{\fs40}Jack? Jack?
+Dialogue: 0,0:16:47.98,0:16:49.27,DIAG,Ashi,0,0,0,,为什么不用武器？\N{\fs40}Why aren't you using the weapon?!
+Dialogue: 0,0:16:51.40,0:16:53.90,DIAG,Samurai Jack,0,0,0,,我…不知道要怎么用！\N{\fs40}I... don't know how to use it!
+Dialogue: 0,0:16:54.49,0:16:55.41,DIAG,Ashi,0,0,0,,什么？！\N{\fs40}What?!
+Dialogue: 0,0:16:55.82,0:16:58.20,DIAG,Samurai Jack,0,0,0,,有一个特定的启动序列  但我不知道是什么\N{\fs40}There's an initiating sequence, and I do not know it!
+Dialogue: 0,0:16:58.66,0:17:00.41,DIAG,Ashi,0,0,0,,让我试试？\N{\fs40}Maybe I can try?
+Dialogue: 0,0:17:00.41,0:17:02.29,DIAG,Samurai Jack,0,0,0,,呃  好吧…\N{\fs40}Um, okay...
+Dialogue: 0,0:17:02.29,0:17:03.25,DIAG,Ashi,0,0,0,,阿喜  接！\N{\fs40}Ashi, catch!
+Dialogue: 0,0:17:34.53,0:17:35.24,DIAG,Samurai Jack,0,0,0,,怎么了？\N{\fs40}What's wrong?!
+Dialogue: 0,0:17:37.16,0:17:38.62,DIAG,Ashi,0,0,0,,我也不会弄！\N{\fs40}I can't get it to work!
+Dialogue: 0,0:17:38.62,0:17:40.62,DIAG,Samurai Jack,0,0,0,,阿喜  你没穿衣服！\N{\fs40}Ashi, you're naked!
+Dialogue: 0,0:17:40.83,0:17:41.62,DIAG,Ashi,0,0,0,,所以呢？\N{\fs40}So?
+Dialogue: 0,0:17:41.62,0:17:43.08,DIAG,Samurai Jack,0,0,0,,嗯  这个  你看啊\N{\fs40}Well, I mean, you know,
+Dialogue: 0,0:17:43.08,0:17:45.66,DIAG,Samurai Jack,0,0,0,,首先男女有别  而且…\N{\fs40}men and women are different and...
+Dialogue: 0,0:17:45.66,0:17:47.62,DIAG,Samurai Jack,0,0,0,,自己的东西是私密\N{\fs40}private things are personal.
+Dialogue: 0,0:17:48.04,0:17:49.54,DIAG,Ashi,0,0,0,,我不知道你想说什么！\N{\fs40}You're not making any sense!
+Dialogue: 0,0:17:56.38,0:17:57.09,DIAG,Ashi,0,0,0,,杰克！\N{\fs40}Jack!
+Dialogue: 0,0:17:57.09,0:17:58.55,DIAG,Ashi,0,0,0,,你这是干什么？\N{\fs40}What are you doing?
+Dialogue: 0,0:17:58.55,0:18:01.14,DIAG,Samurai Jack,0,0,0,,呃  在怪物面前要保护好自己\N{\fs40}Uh, you need protection from the creature.
+Dialogue: 0,0:18:01.85,0:18:03.72,DIAG,Ashi,0,0,0,,就凭你的长袍？\N{\fs40}And your robe is gonna protect me?
+Dialogue: 0,0:18:03.72,0:18:05.73,DIAG,Samurai Jack,0,0,0,,那个叫做着  还有  没错！\N{\fs40}Actually it's a gi. And, yes!
+Dialogue: 0,0:18:03.72,0:18:05.73,DIAG,Samurai Jack,0,0,0,,{\pos(913,940)\fs50\fn源ノ角ゴシック Medium}ぎ
+Dialogue: 0,0:18:03.72,0:18:05.73,DESC,,0,0,0,,※在日语中，「{\fn源ノ角ゴシック Medium}着{\fn}」一般作为后缀，例如「{\fn源ノ角ゴシック Medium}柔道着{\fn}」（{\fn源ノ角ゴシック Medium}じゅうどうぎ{\fn}，柔道服）\N或「{\fn源ノ角ゴシック Medium}空手着{\fn}」（{\fn源ノ角ゴシック Medium}からてぎ{\fn}，空手道服）。在英语中，“gi”泛指武术服装。
+Dialogue: 0,0:18:06.81,0:18:08.65,DIAG,Ashi,0,0,0,,总感觉你突然变得怪怪的\N{\fs40}You're acting weird.
+Dialogue: 0,0:18:08.65,0:18:10.15,DIAG,Samurai Jack,0,0,0,,说我怪？\N{\fs40}Me? Weird?
+Dialogue: 0,0:18:10.15,0:18:11.73,DIAG,Samurai Jack,0,0,0,,我怪吗？哈哈  哈！\N{\fs40}Me?! Ha ha! Ha!
+Dialogue: 0,0:18:13.19,0:18:14.15,DIAG,Ashi,0,0,0,,好吧\N{\fs40}Okay...
+Dialogue: 0,0:18:47.35,0:18:48.69,DIAG,Ashi,0,0,0,,你想干嘛？\N{\fs40}What are you doing?
+Dialogue: 0,0:18:49.35,0:18:51.06,DIAG,Samurai Jack,0,0,0,,只能这样了\N{\fs40}It is the only way.
+Dialogue: 0,0:18:51.06,0:18:52.02,DIAG,Samurai Jack,0,0,0,,我必须得试出来\N{\fs40}I have to try.
+Dialogue: 0,0:18:56.53,0:18:57.94,DIAG,Samurai Jack,0,0,0,,尽量掩护我  越久越好\N{\fs40}Cover me for as long as you can!
+Dialogue: 0,0:19:18.55,0:19:19.63,DIAG,Ashi,0,0,0,,杰克！\N{\fs40}J-a-a-ack!
+Dialogue: 0,0:19:24.72,0:19:26.39,DIAG,Ashi,0,0,0,,我快撑不住了！\N{\fs40}I can't hold it anymore!
+Dialogue: 0,0:19:27.31,0:19:29.14,DIAG,[Computer Voice],0,0,0,,{\an8}序列已启动\N{\fs40}Sequence initiated.
+Dialogue: 0,0:19:32.27,0:19:33.90,DIAG,Ashi,0,0,0,,\N{\fs40}Aaaaah!
+Dialogue: 0,0:19:34.40,0:19:35.98,DIAG,Samurai Jack,0,0,0,,\N{\fs40}Aaaaah!
+Dialogue: 0,0:19:39.19,0:19:40.57,DIAG,Ashi,0,0,0,,杰克！\N{\fs40}Jack!
+Dialogue: 0,0:19:42.45,0:19:43.82,DIAG,Samurai Jack,0,0,0,,阿喜！\N{\fs40}Ashi!
+Dialogue: 0,0:19:57.59,0:19:59.76,DIAG,Ashi,0,0,0,,\N{\fs40}Aaaah!
+Dialogue: 0,0:20:00.17,0:20:02.01,DIAG,Samurai Jack,0,0,0,,\N{\fs40}Aaaah!
+Dialogue: 0,0:20:02.68,0:20:04.18,DIAG,Ashi,0,0,0,,\N{\fs40}Aaaah!
+Dialogue: 0,0:20:06.10,0:20:08.77,DIAG,Samurai Jack,0,0,0,,\N{\fs40}Aaaah!
+Dialogue: 0,0:20:52.89,0:20:57.89,DESC,,0,0,0,,{\fad(200,200)\an2}♪ Dean Martin - Everybody Loves Somebody ♪
+Dialogue: 0,0:20:52.89,0:21:00.48,DESC,,0,0,0,,{\fad(200,200)\an7\fs60\bord5\fn思源宋体 Medium\b0}Everybody loves somebody sometime\N每个人都会在某个时刻坠入爱河
+Dialogue: 0,0:21:00.48,0:21:06.49,DESC,,0,0,0,,{\fad(200,200)\an7\fs60\bord5\fn思源宋体 Medium\b0}Everybody falls in love somehow\N每个人都会在不知不觉中坠入爱河
+Dialogue: 0,0:21:06.49,0:21:11.95,DESC,,0,0,0,,{\fad(200,200)\an7\fs60\bord5\fn思源宋体 Medium\b0}Something in your kiss just told me\N我从你的吻中感受到了
+Dialogue: 0,0:21:11.95,0:21:18.50,DESC,,0,0,0,,{\fad(200,200)\an7\fs60\bord5\fn思源宋体 Medium\b0}My sometime is now\N现在就是那个时刻
+Dialogue: 0,0:21:18.50,0:21:24.47,DESC,,0,0,0,,{\fad(200,200)\an8\fs60\bord0\fn思源宋体 Medium\b0}Everybody finds somebody someplace
+Dialogue: 0,0:21:18.50,0:21:24.47,DESC,,0,0,0,,{\fad(200,200)\an2\fs60\bord0\fn思源宋体 Medium\b0}每个人都会在某个地方坠入爱河
+Dialogue: 0,0:21:24.47,0:21:30.51,DESC,,0,0,0,,{\fad(200,200)\an8\fs60\bord0\fn思源宋体 Medium\b0}There's no tellin' where love may appear
+Dialogue: 0,0:21:24.47,0:21:30.51,DESC,,0,0,0,,{\fad(200,200)\an2\fs60\bord0\fn思源宋体 Medium\b0}没人知道爱情会在何处悄然降临
+Dialogue: 0,0:21:28.39,0:21:29.55,TITL,,0,0,0,,{\pos(960,650)}第玖拾玖集
+Dialogue: 0,0:21:30.51,0:21:36.06,DESC,,0,0,0,,{\fad(200,200)\an8\fs60\bord0\fn思源宋体 Medium\b0}Something in my heart keeps sayin'
+Dialogue: 0,0:21:30.51,0:21:36.06,DESC,,0,0,0,,{\fad(200,200)\an2\fs60\bord0\fn思源宋体 Medium\b0}我从内心深处感受到了
+Dialogue: 0,0:21:36.06,0:21:42.48,DESC,,0,0,0,,{\fad(200,200)\an8\fs60\bord0\fn思源宋体 Medium\b0}My someplace is here
+Dialogue: 0,0:21:36.06,0:21:42.48,DESC,,0,0,0,,{\fad(200,200)\an2\fs60\bord0\fn思源宋体 Medium\b0}这里就是那个地方
+Dialogue: 0,0:21:42.48,0:21:48.07,DESC,,0,0,0,,{\fad(200,200)\an8\fs60\bord0\fn思源宋体 Medium\b0}If I had it in my power
+Dialogue: 0,0:21:42.48,0:21:48.07,DESC,,0,0,0,,{\fad(200,200)\an2\fs60\bord0\fn思源宋体 Medium\b0}倘若我有这样的能力
+Dialogue: 0,0:21:48.07,0:21:54.62,DESC,,0,0,0,,{\fad(200,200)\an8\fs60\bord0\fn思源宋体 Medium\b0\t(2969,2969,\1c&H000000&)}I'd arrange for every girl to have your charms
+Dialogue: 0,0:21:48.07,0:21:54.62,DESC,,0,0,0,,{\fad(200,200)\an2\fs60\bord0\fn思源宋体 Medium\b0\t(2969,2969,\1c&H000000&)}我想让所有女孩都能拥有你的魅力
+Dialogue: 0,0:21:54.62,0:21:57.38,DESC,,0,0,0,,{\fad(200,0)\an8\fs60\bord0\fn思源宋体 Medium\b0\1c&H000000&}Then, every minute...
+Dialogue: 0,0:21:54.62,0:21:57.38,DESC,,0,0,0,,{\fad(200,0)\an2\fs60\bord0\fn思源宋体 Medium\b0\1c&H000000&}如此一来  每一分…
