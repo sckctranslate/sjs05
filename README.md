@@ -15,9 +15,13 @@ _所有脚本均对应蓝光版片源。_
 #### 第玖拾捌集 / XCVIII
 [最新（v1.0.0-CHS）](https://github.com/sckctranslate/sjs05/raw/f994fd3debb483604e5316238374b9e7dc917797/%5BSKOT%5D%5BSamurai_Jack%5D%5BXCVIII%5D%5Bv1.0.0-CHS%5D%5BBDRip%5D%5B1080p%5D%5Bx264_ac3%5D.ass)
 
+#### 第玖拾玖集 / XCIX
+[最新（v1.0.0-CHS）](https://github.com/sckctranslate/sjs05/raw/aaac9d518bd075e43d1ba8c38a702237e4747b22/%5BSKOT%5D%5BSamurai_Jack%5D%5BXCIX%5D%5Bv1.0.0-CHS%5D%5BBDRip%5D%5B1080p%5D%5Bx264_ac3%5D.ass)
+
 ## 字体
 #### 开源字体
 [思源黑体](https://github.com/adobe-fonts/source-han-sans)  
+[思源宋体](https://github.com/adobe-fonts/source-han-serif)  
 
 #### 专有字体
 [Arial](https://docs.microsoft.com/en-us/typography/font-list/arial)  
