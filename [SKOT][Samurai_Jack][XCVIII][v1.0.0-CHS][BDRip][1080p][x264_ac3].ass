@@ -14,12 +14,12 @@ Original Editing: SerCom_KC
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
-Style: DIAG,思源黑体 Medium,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,5,0,2,30,30,30,1
-Style: RATN,思源黑体 Medium,75,&HFFFFFFFF,&HFF0000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,5,0,8,30,30,30,1
-Style: DESC,思源黑体 Medium,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.5,0,8,30,30,30,1
+Style: DIAG,Source Han Sans SC Medium,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,5,0,2,30,30,30,1
+Style: RATN,Source Han Sans SC Medium,75,&HFFFFFFFF,&HFF0000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,5,0,8,30,30,30,1
+Style: DESC,Source Han Sans SC Medium,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.5,0,8,30,30,30,1
 Style: EDEN,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,30,0
-Style: TITL,方正黑体_GBK,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,5,0,2,30,30,30,1
-Style: CRED,Source Han Sans Bold,75,&H00FFFFFF,&H000000FF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,1,0,5,2,0,0,40,1
+Style: TITL,FZHei-B01,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,5,0,2,30,30,30,1
+Style: CRED,Source Han Sans SC Bold,75,&H00FFFFFF,&H000000FF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,1,0,5,2,0,0,40,1
 Style: DEFT,Source Han Sans Regular,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,50,1
  
 [Events]
@@ -34,7 +34,7 @@ Comment: 0,0:00:00.00,0:22:36.83,DEFT,,0,0,0,,
 Comment: 0,0:00:00.00,0:22:36.83,DEFT,,0,0,0,,Version v1.0.0-CHS
 Dialogue: 0,0:00:56.61,0:00:59.70,CRED,,0,0,0,,{\fad(900,900)\fs50}翻译版本  {\fs}v1.0.0-CHS
 Comment: 0,0:00:00.00,0:22:36.83,DEFT,,0,0,0,,Translator(s): 妙挖種子
-Dialogue: 0,0:01:06.50,0:01:09.25,CRED,,0,0,0,,{\fad(900,900)\fs50}翻译  {\fs}妙挖種子
+Dialogue: 0,0:01:06.50,0:01:09.25,CRED,,0,0,0,,{\fad(900,900)\fs50}翻译  {\fnSource Han Sans TC Bold\fs}妙挖種子
 Comment: 0,0:00:00.00,0:22:36.83,DEFT,,0,0,0,,Proofreader(s): SerCom_KC
 Dialogue: 0,0:01:15.59,0:01:18.68,CRED,,0,0,0,,{\fad(900,900)\fs50}校对  {\fs}SerCom_KC
 Comment: 0,0:01:30.77,0:01:34.11,CRED,,0,0,0,,{\fad(900,900)\fs50}encoded by {\fs}

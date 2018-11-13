@@ -14,12 +14,12 @@ Original Editing: SerCom_KC
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
-Style: DIAG,思源黑体 Medium,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,5,0,2,30,30,30,1
-Style: RATN,思源黑体 Medium,75,&HFFFFFFFF,&HFF0000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,5,0,8,30,30,30,1
-Style: DESC,思源黑体 Medium,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.5,0,8,30,30,30,1
+Style: DIAG,Source Han Sans SC Medium,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,5,0,2,30,30,30,1
+Style: RATN,Source Han Sans SC Medium,75,&HFFFFFFFF,&HFF0000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,5,0,8,30,30,30,1
+Style: DESC,Source Han Sans SC Medium,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.5,0,8,30,30,30,1
 Style: EDEN,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,30,0
-Style: TITL,方正黑体_GBK,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,5,0,2,30,30,30,1
-Style: CRED,Source Han Sans Bold,75,&H00FFFFFF,&H000000FF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,1,0,5,2,0,0,40,1
+Style: TITL,FZHei-B01,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,5,0,2,30,30,30,1
+Style: CRED,Source Han Sans SC Bold,75,&H00FFFFFF,&H000000FF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,1,0,5,2,0,0,40,1
 Style: DEFT,Source Han Sans Regular,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,5,0,2,10,10,50,1
  
 [Events]
@@ -34,7 +34,7 @@ Comment: 0,0:00:00.00,0:21:59.38,DEFT,,0,0,0,,
 Comment: 0,0:00:00.00,0:21:59.38,DEFT,,0,0,0,,Version v1.0.0-CHS
 Dialogue: 0,0:00:54.86,0:00:57.28,CRED,,0,0,0,,{\fad(900,900)\fs50}翻译版本  {\fs}v1.0.0-CHS
 Comment: 0,0:00:00.00,0:21:59.38,DEFT,,0,0,0,,Translator(s): 妙挖種子
-Dialogue: 0,0:01:01.33,0:01:03.75,CRED,,0,0,0,,{\fad(900,900)\fs50}翻译  {\fs}妙挖種子
+Dialogue: 0,0:01:01.33,0:01:03.75,CRED,,0,0,0,,{\fad(900,900)\fs50}翻译  {\fnSource Han Sans TC Bold\fs}妙挖種子
 Comment: 0,0:00:00.00,0:21:59.38,DEFT,,0,0,0,,Proofreader(s): SerCom_KC
 Dialogue: 0,0:01:06.92,0:01:09.34,CRED,,0,0,0,,{\fad(900,900)\fs50}校对  {\fs}SerCom_KC
 Comment: 0,0:01:12.80,0:01:16.13,CRED,,0,0,0,,{\fad(900,900)\fs50}encoded by {\fs}
@@ -86,10 +86,10 @@ Dialogue: 0,0:04:25.03,0:04:26.78,DIAG,Samurai Jack,0,0,0,,我们这么抓着杆
 Dialogue: 0,0:04:26.78,0:04:29.45,DIAG,Samurai Jack,0,0,0,,结果我们的手总是…碰到一起\N{\fs40}but our hands kept... touching.
 Dialogue: 0,0:04:30.12,0:04:31.95,DIAG,Ashi,0,0,0,,\N{\fs40}Ha ha... ha.
 Dialogue: 0,0:04:37.00,0:04:39.38,DIAG,Samurai Jack,0,0,0,,好像有点儿开始变热了\N{\fs40}The temperature seems to be rising.
-Dialogue: 0,0:05:07.24,0:05:08.82,DESC,,0,0,0,,{\1c&H130D8B&\3c&H231C30&\fn思源黑体 Heavy\fs75\bord5}（去死）
-Dialogue: 0,0:05:16.25,0:05:18.17,DESC,,0,0,0,,{\1c&H281A95&\3c&H20182A&\fn思源黑体 Heavy\fs75\bord5}（死亡）
+Dialogue: 0,0:05:07.24,0:05:08.82,DESC,,0,0,0,,{\1c&H130D8B&\3c&H231C30&\fnSource Han Sans SC Heavy\fs75\bord5}（去死）
+Dialogue: 0,0:05:16.25,0:05:18.17,DESC,,0,0,0,,{\1c&H281A95&\3c&H20182A&\fnSource Han Sans SC Heavy\fs75\bord5}（死亡）
 Dialogue: 0,0:05:22.26,0:05:23.51,DIAG,Samurai Jack,0,0,0,,阿喜…\N{\fs40}Ashi...
-Dialogue: 0,0:05:23.51,0:05:30.35,DESC,,0,0,0,,{\1c&H5842E3&\3c&H201933&\fn思源黑体 Heavy\fs75\bord5}（去死  杰克武士）
+Dialogue: 0,0:05:23.51,0:05:30.35,DESC,,0,0,0,,{\1c&H5842E3&\3c&H201933&\fnSource Han Sans SC Heavy\fs75\bord5}（去死  杰克武士）
 Dialogue: 0,0:05:27.68,0:05:28.84,DIAG,Samurai Jack,0,0,0,,有情况\N{\fs40}... we are not alone.
 Dialogue: 0,0:06:00.21,0:06:01.34,DIAG,Samurai Jack,0,0,0,,噢  不好意思  我…\N{\fs40}Oh! Sorry, I --
 Dialogue: 0,0:06:01.34,0:06:02.71,DIAG,Ashi,0,0,0,,不  是我的错\N{\fs40}No, I -- I'm sorry!
@@ -97,7 +97,7 @@ Dialogue: 0,0:06:02.71,0:06:03.55,DIAG,Ashi,0,0,0,,我没有注意到你！\N{\f
 Dialogue: 0,0:06:04.13,0:06:04.80,DIAG,Samurai Jack & Ashi,0,0,0,,小心！\N{\fs40}Look out!
 Dialogue: 0,0:06:21.19,0:06:23.15,DIAG,Samurai Jack,0,0,0,,我们是不是离开这里会比较好\N{\fs40}Should we leave, perhaps?
 Dialogue: 0,0:06:23.15,0:06:25.36,DIAG,Ashi,0,0,0,,嗯  我觉得这样不错\N{\fs40}Yeah, I think that's a good idea.
-Dialogue: 0,0:06:26.24,0:06:27.40,DESC,,0,0,0,,{\1c&H060059&\3c&H020202&\fn思源黑体 Heavy\fs75\bord5}（哇！）
+Dialogue: 0,0:06:26.24,0:06:27.40,DESC,,0,0,0,,{\1c&H060059&\3c&H020202&\fnSource Han Sans SC Heavy\fs75\bord5}（哇！）
 Dialogue: 0,0:06:40.75,0:06:41.58,DIAG,[Camel Rider],0,0,0,,喂！\N{\fs40}Hey!
 Dialogue: 0,0:08:52.47,0:08:54.63,DIAG,Samurai Jack,0,0,0,,我们得找个地方避一避！\N{\fs40}We have to find some shelter!
 Dialogue: 0,0:08:56.30,0:08:57.14,DIAG,Ashi,0,0,0,,哪边？\N{\fs40}Where?!
@@ -191,8 +191,8 @@ Dialogue: 0,0:17:57.09,0:17:58.55,DIAG,Ashi,0,0,0,,你这是干什么？\N{\fs40
 Dialogue: 0,0:17:58.55,0:18:01.14,DIAG,Samurai Jack,0,0,0,,呃  在怪物面前要保护好自己\N{\fs40}Uh, you need protection from the creature.
 Dialogue: 0,0:18:01.85,0:18:03.72,DIAG,Ashi,0,0,0,,就凭你的长袍？\N{\fs40}And your robe is gonna protect me?
 Dialogue: 0,0:18:03.72,0:18:05.73,DIAG,Samurai Jack,0,0,0,,那个叫做着  还有  没错！\N{\fs40}Actually it's a gi. And, yes!
-Dialogue: 0,0:18:03.72,0:18:05.73,DIAG,Samurai Jack,0,0,0,,{\pos(913,940)\fs50\fn源ノ角ゴシック Medium}ぎ
-Dialogue: 0,0:18:03.72,0:18:05.73,DESC,,0,0,0,,※在日语中，「{\fn源ノ角ゴシック Medium}着{\fn}」一般作为后缀，例如「{\fn源ノ角ゴシック Medium}柔道着{\fn}」（{\fn源ノ角ゴシック Medium}じゅうどうぎ{\fn}，柔道服）\N或「{\fn源ノ角ゴシック Medium}空手着{\fn}」（{\fn源ノ角ゴシック Medium}からてぎ{\fn}，空手道服）。在英语中，“gi”泛指武术服装。
+Dialogue: 0,0:18:03.72,0:18:05.73,DIAG,Samurai Jack,0,0,0,,{\pos(913,940)\fs50\fnSource Han Sans Medium}ぎ
+Dialogue: 0,0:18:03.72,0:18:05.73,DESC,,0,0,0,,※在日语中，「{\fnSource Han Sans Medium}着{\fn}」一般作为后缀，例如「{\fnSource Han Sans Medium}柔道着{\fn}」（{\fnSource Han Sans Medium}じゅうどうぎ{\fn}，柔道服）\N或「{\fnSource Han Sans Medium}空手着{\fn}」（{\fnSource Han Sans Medium}からてぎ{\fn}，空手道服）。在英语中，“gi”泛指武术服装。
 Dialogue: 0,0:18:06.81,0:18:08.65,DIAG,Ashi,0,0,0,,总感觉你突然变得怪怪的\N{\fs40}You're acting weird.
 Dialogue: 0,0:18:08.65,0:18:10.15,DIAG,Samurai Jack,0,0,0,,说我怪？\N{\fs40}Me? Weird?
 Dialogue: 0,0:18:10.15,0:18:11.73,DIAG,Samurai Jack,0,0,0,,我怪吗？哈哈  哈！\N{\fs40}Me?! Ha ha! Ha!
@@ -213,22 +213,22 @@ Dialogue: 0,0:20:00.17,0:20:02.01,DIAG,Samurai Jack,0,0,0,,\N{\fs40}Aaaah!
 Dialogue: 0,0:20:02.68,0:20:04.18,DIAG,Ashi,0,0,0,,\N{\fs40}Aaaah!
 Dialogue: 0,0:20:06.10,0:20:08.77,DIAG,Samurai Jack,0,0,0,,\N{\fs40}Aaaah!
 Dialogue: 0,0:20:52.89,0:20:57.89,DESC,,0,0,0,,{\fad(200,200)\an2}♪ Dean Martin - Everybody Loves Somebody ♪
-Dialogue: 0,0:20:52.89,0:21:00.48,DESC,,0,0,0,,{\fad(200,200)\an7\fs60\bord5\fn思源宋体 Medium\b0}Everybody loves somebody sometime\N每个人都会在某个时刻坠入爱河
-Dialogue: 0,0:21:00.48,0:21:06.49,DESC,,0,0,0,,{\fad(200,200)\an7\fs60\bord5\fn思源宋体 Medium\b0}Everybody falls in love somehow\N每个人都会在不知不觉中坠入爱河
-Dialogue: 0,0:21:06.49,0:21:11.95,DESC,,0,0,0,,{\fad(200,200)\an7\fs60\bord5\fn思源宋体 Medium\b0}Something in your kiss just told me\N我从你的吻中感受到了
-Dialogue: 0,0:21:11.95,0:21:18.50,DESC,,0,0,0,,{\fad(200,200)\an7\fs60\bord5\fn思源宋体 Medium\b0}My sometime is now\N现在就是那个时刻
-Dialogue: 0,0:21:18.50,0:21:24.47,DESC,,0,0,0,,{\fad(200,200)\an8\fs60\bord0\fn思源宋体 Medium\b0}Everybody finds somebody someplace
-Dialogue: 0,0:21:18.50,0:21:24.47,DESC,,0,0,0,,{\fad(200,200)\an2\fs60\bord0\fn思源宋体 Medium\b0}每个人都会在某个地方坠入爱河
-Dialogue: 0,0:21:24.47,0:21:30.51,DESC,,0,0,0,,{\fad(200,200)\an8\fs60\bord0\fn思源宋体 Medium\b0}There's no tellin' where love may appear
-Dialogue: 0,0:21:24.47,0:21:30.51,DESC,,0,0,0,,{\fad(200,200)\an2\fs60\bord0\fn思源宋体 Medium\b0}没人知道爱情会在何处悄然降临
+Dialogue: 0,0:20:52.89,0:21:00.48,DESC,,0,0,0,,{\fad(200,200)\an7\fs60\bord5\fnSource Han Serif SC Medium\b0}Everybody loves somebody sometime\N每个人都会在某个时刻坠入爱河
+Dialogue: 0,0:21:00.48,0:21:06.49,DESC,,0,0,0,,{\fad(200,200)\an7\fs60\bord5\fnSource Han Serif SC Medium\b0}Everybody falls in love somehow\N每个人都会在不知不觉中坠入爱河
+Dialogue: 0,0:21:06.49,0:21:11.95,DESC,,0,0,0,,{\fad(200,200)\an7\fs60\bord5\fnSource Han Serif SC Medium\b0}Something in your kiss just told me\N我从你的吻中感受到了
+Dialogue: 0,0:21:11.95,0:21:18.50,DESC,,0,0,0,,{\fad(200,200)\an7\fs60\bord5\fnSource Han Serif SC Medium\b0}My sometime is now\N现在就是那个时刻
+Dialogue: 0,0:21:18.50,0:21:24.47,DESC,,0,0,0,,{\fad(200,200)\an8\fs60\bord0\fnSource Han Serif SC Medium\b0}Everybody finds somebody someplace
+Dialogue: 0,0:21:18.50,0:21:24.47,DESC,,0,0,0,,{\fad(200,200)\an2\fs60\bord0\fnSource Han Serif SC Medium\b0}每个人都会在某个地方坠入爱河
+Dialogue: 0,0:21:24.47,0:21:30.51,DESC,,0,0,0,,{\fad(200,200)\an8\fs60\bord0\fnSource Han Serif SC Medium\b0}There's no tellin' where love may appear
+Dialogue: 0,0:21:24.47,0:21:30.51,DESC,,0,0,0,,{\fad(200,200)\an2\fs60\bord0\fnSource Han Serif SC Medium\b0}没人知道爱情会在何处悄然降临
 Dialogue: 0,0:21:28.39,0:21:29.55,TITL,,0,0,0,,{\pos(960,650)}第玖拾玖集
-Dialogue: 0,0:21:30.51,0:21:36.06,DESC,,0,0,0,,{\fad(200,200)\an8\fs60\bord0\fn思源宋体 Medium\b0}Something in my heart keeps sayin'
-Dialogue: 0,0:21:30.51,0:21:36.06,DESC,,0,0,0,,{\fad(200,200)\an2\fs60\bord0\fn思源宋体 Medium\b0}我从内心深处感受到了
-Dialogue: 0,0:21:36.06,0:21:42.48,DESC,,0,0,0,,{\fad(200,200)\an8\fs60\bord0\fn思源宋体 Medium\b0}My someplace is here
-Dialogue: 0,0:21:36.06,0:21:42.48,DESC,,0,0,0,,{\fad(200,200)\an2\fs60\bord0\fn思源宋体 Medium\b0}这里就是那个地方
-Dialogue: 0,0:21:42.48,0:21:48.07,DESC,,0,0,0,,{\fad(200,200)\an8\fs60\bord0\fn思源宋体 Medium\b0}If I had it in my power
-Dialogue: 0,0:21:42.48,0:21:48.07,DESC,,0,0,0,,{\fad(200,200)\an2\fs60\bord0\fn思源宋体 Medium\b0}倘若我有这样的能力
-Dialogue: 0,0:21:48.07,0:21:54.62,DESC,,0,0,0,,{\fad(200,200)\an8\fs60\bord0\fn思源宋体 Medium\b0\t(2969,2969,\1c&H000000&)}I'd arrange for every girl to have your charms
-Dialogue: 0,0:21:48.07,0:21:54.62,DESC,,0,0,0,,{\fad(200,200)\an2\fs60\bord0\fn思源宋体 Medium\b0\t(2969,2969,\1c&H000000&)}我想让所有女孩都能拥有你的魅力
-Dialogue: 0,0:21:54.62,0:21:57.38,DESC,,0,0,0,,{\fad(200,0)\an8\fs60\bord0\fn思源宋体 Medium\b0\1c&H000000&}Then, every minute...
-Dialogue: 0,0:21:54.62,0:21:57.38,DESC,,0,0,0,,{\fad(200,0)\an2\fs60\bord0\fn思源宋体 Medium\b0\1c&H000000&}如此一来  每一分…
+Dialogue: 0,0:21:30.51,0:21:36.06,DESC,,0,0,0,,{\fad(200,200)\an8\fs60\bord0\fnSource Han Serif SC Medium\b0}Something in my heart keeps sayin'
+Dialogue: 0,0:21:30.51,0:21:36.06,DESC,,0,0,0,,{\fad(200,200)\an2\fs60\bord0\fnSource Han Serif SC Medium\b0}我从内心深处感受到了
+Dialogue: 0,0:21:36.06,0:21:42.48,DESC,,0,0,0,,{\fad(200,200)\an8\fs60\bord0\fnSource Han Serif SC Medium\b0}My someplace is here
+Dialogue: 0,0:21:36.06,0:21:42.48,DESC,,0,0,0,,{\fad(200,200)\an2\fs60\bord0\fnSource Han Serif SC Medium\b0}这里就是那个地方
+Dialogue: 0,0:21:42.48,0:21:48.07,DESC,,0,0,0,,{\fad(200,200)\an8\fs60\bord0\fnSource Han Serif SC Medium\b0}If I had it in my power
+Dialogue: 0,0:21:42.48,0:21:48.07,DESC,,0,0,0,,{\fad(200,200)\an2\fs60\bord0\fnSource Han Serif SC Medium\b0}倘若我有这样的能力
+Dialogue: 0,0:21:48.07,0:21:54.62,DESC,,0,0,0,,{\fad(200,200)\an8\fs60\bord0\fnSource Han Serif SC Medium\b0\t(2969,2969,\1c&H000000&)}I'd arrange for every girl to have your charms
+Dialogue: 0,0:21:48.07,0:21:54.62,DESC,,0,0,0,,{\fad(200,200)\an2\fs60\bord0\fnSource Han Serif SC Medium\b0\t(2969,2969,\1c&H000000&)}我想让所有女孩都能拥有你的魅力
+Dialogue: 0,0:21:54.62,0:21:57.38,DESC,,0,0,0,,{\fad(200,0)\an8\fs60\bord0\fnSource Han Serif SC Medium\b0\1c&H000000&}Then, every minute...
+Dialogue: 0,0:21:54.62,0:21:57.38,DESC,,0,0,0,,{\fad(200,0)\an2\fs60\bord0\fnSource Han Serif SC Medium\b0\1c&H000000&}如此一来  每一分…
